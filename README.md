@@ -24,43 +24,24 @@ Ensure you have the following installed on your machine:
 
 1. **Clone the repository**:
    ```bash
-   git clone <URL_REPOSITORY>
+   git clone https://github.com/ekyza/frontend.git
    ```
 
 2. **Navigate to the project directory**:
    ```bash
-   cd <NAMA_FOLDER_PROYEK>
+   cd frontend
    ```
 
 3. **Install dependencies**:
-   Using npm:
    ```bash
    npm install
-   ```
-   Using Yarn:
-   ```bash
-   yarn install
-   ```
-   Using pnpm:
-   ```bash
-   pnpm install
    ```
 
 ### Running the Project
 
 To start the development server, run:
-
-Using npm:
 ```bash
 npm run dev
-```
-Using Yarn:
-```bash
-yarn dev
-```
-Using pnpm:
-```bash
-pnpm dev
 ```
 
 ### Accessing the Application
