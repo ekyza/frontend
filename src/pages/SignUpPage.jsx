@@ -38,7 +38,7 @@ export default function SignUpPage() {
 
   return (
     <div className="min-h-screen flex justify-center items-center">
-      <div className="sm:mx-auto max-w-screen-sm w-full flex flex-col gap-8">
+      <div className="px-6 sm:mx-auto max-w-screen-sm w-full flex flex-col gap-8">
         <div className="flex flex-col gap-1">
           <h1 className="text-2xl font-bold">Create your account</h1>
 
